@@ -30,7 +30,7 @@ __HINT:__ at min rotate 45
 8. Have fun and continue to add to this application
 
 
-# HELP
+## HELP
 Library that I used to complete this task is PIL:  
 `python3 -m pip install Pillow`  
 The `image` module in the Pillow library is extremely helpful to complete the task:  
